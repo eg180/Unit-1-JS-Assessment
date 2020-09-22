@@ -16,7 +16,7 @@
 */
 function getName(character) {
   // ⭐️ Example Solution Provided For First Function ⭐️
-  return character.name
+  return character.name;
 }
 
 /**
@@ -31,7 +31,13 @@ function getName(character) {
 function getFilmCount(character) {
   // TODO: Add your code inside the functions (others below).
 
+  return (character.films).length;
+
 }
+
+
+
+
 
 /**
  * ### Challenge `getSecondStarshipName`
@@ -43,6 +49,7 @@ function getFilmCount(character) {
 */
 function getSecondStarshipName(character) {
   // TODO: Add your code here.
+  
 }
 
 /**
